@@ -1,0 +1,3 @@
+Mean Intensity: 18.68060302734375
+Standard Deviation: 65.92408089516825
+Entropy: 1.0578149629627538
